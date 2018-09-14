@@ -76,6 +76,10 @@ footer {
     float: none;
 }
 
+.pic {
+    float: left;
+    width: 15%;
+}
 #message {
     height: 50px;
 }
