@@ -11,14 +11,14 @@ body {
 
 }
 
-    .aboutMe {
+.aboutMe {
         color: #666666;
         background-color: white;
         float: left;
         height: 75%;
         width: 75%;
         padding: 15px 32px;
-        margin: 0% 9% -0% 9%;
+        margin: 0% 9%;
         vertical-align: top;
 }
 
@@ -49,8 +49,10 @@ body {
     text-align: center;
 }
 
-#footer {
+#smallBanner {
     background-color: #666666;
+    height: 6px;
+    float: none;
 }
 
 #container::after { 
