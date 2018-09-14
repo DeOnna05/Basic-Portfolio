@@ -1,0 +1,60 @@
+
+body {
+    background-color: #F1F1F1;
+    
+}
+
+.banner {
+    width: 100%;
+    height: 67px;
+    background-color: white;
+
+}
+
+    .aboutMe {
+        color: #666666;
+        background-color: white;
+        float: left;
+        height: 75%;
+        width: 75%;
+        padding: 15px 32px;
+        margin: 0% 9% -0% 9%;
+        vertical-align: top;
+}
+
+.buttonBox {
+    float: right;
+    margin-right: 15px;
+    margin-top: -20px;
+}
+
+.button {
+    background-color: white;
+    color: #666666;
+    border: none;
+    text-align: center;
+    margin-top:45px;
+    padding-left: 15px;
+}
+
+.nameBox {
+    color: white;
+    background-color: #4AAAA5;
+    float: left;
+    border: none;
+    padding: 15px 32px;
+    margin-top: 0;
+    margin-bottom:50px;
+    margin-left:150px;
+    text-align: center;
+}
+
+#footer {
+    background-color: #666666;
+}
+
+#container::after { 
+    content: "";
+    display: block; 
+    clear: both;
+  }
