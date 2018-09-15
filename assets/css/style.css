@@ -104,3 +104,12 @@ footer {
     display: block; 
     clear: both;
   }
+
+#submit {
+    color: white;
+    background-color: #4AAAA5;
+    border: none;
+    display: inline-block;
+    height: 30px;
+    width: 67px;
+}
